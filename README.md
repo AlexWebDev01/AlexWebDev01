@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Web Development, JavaScript and Node.js
-- 🌱 I’m currently learning Full-stack webdev course
+- 🌱 I’m currently learning Javascript and Nodejs
 - 💞️ I’m looking to collaborate on some good projects to have a practice
 - 📫 You can contact me by e-mail: alex.udodov.web@gmail.com
 
