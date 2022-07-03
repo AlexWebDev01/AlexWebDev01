@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Web Development, JavaScript and Node.js
-- 🌱 I’m currently learning Javascript and Nodejs
-- 💞️ I’m looking to collaborate on some good projects to have a practice
+- 👀 I’m front-end developer. My stack: HTML, CSS, JavaScript, React.js
+- 🌱 I’m currently learning deep concepts of React.js
+- 💞️ I’m looking for a job right now
 - 📫 You can contact me by e-mail: alex.udodov.web@gmail.com
 
 <!---
