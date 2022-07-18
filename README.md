@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m front-end developer. My stack: HTML, CSS, JavaScript, React.js
 - 🌱 I’m currently learning deep concepts of React.js
-- 💞️ I’m looking for a job right now
+- 💞️ I’m open for a job offers right now
 - 📫 You can contact me by e-mail: alex.udodov.web@gmail.com
 
 <!---
