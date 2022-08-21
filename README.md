@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m front-end developer. My stack: HTML, CSS, JavaScript, React.js, Typescript
+- 👀 I’m front-end developer. My stack: HTML, CSS (SASS), JavaScript, React.js, Typescript.
 - 📫 You can contact me by e-mail: alex.udodov.web@gmail.com
 
 <!---
