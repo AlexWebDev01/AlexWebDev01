@@ -7,7 +7,7 @@
 
 ✨ Also you'll find here a lot of small JavaScript projects that I made to master my skills :)
 
-- 📫 Feel free to contact me
+📫 Feel free to contact me
 my e-mail: alex.udodov.web@gmail.com
 
 <!---
