@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Alex
-- 👀 I’m front-end developer. My stack: HTML, CSS (SASS), JavaScript, React.js
-- 📫 You can contact me by e-mail: alex.udodov.web@gmail.com
+- 👋 Hi, I’m Alex - self-taught Front-end developer from Latvia with a half-year experience in web development and internship experience in European online software startup - Bordio.
+- 👀 My main stack: HTML, CSS (SASS), JavaScript, React.js
+- My portfolio projects are:
+✅ Triple
+✅ ASAP clothes online store
+✅ Face-recognition app
+
+- 📫 Feel free to contact me
+my e-mail: alex.udodov.web@gmail.com
 
 <!---
 AlexWebDev01/AlexWebDev01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
