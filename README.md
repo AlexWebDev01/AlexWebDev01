@@ -2,8 +2,8 @@
 - 👀 My main stack: HTML, CSS (SASS), JavaScript, React.js
 - My portfolio projects are:
 <br>
-✅ Triple https://dev.gim.lv/triple/lv/ieksdurvis/
-✅ ASAP clothes online store https://visionary-rugelach-771c34.netlify.app/
+✅ Triple https://dev.gim.lv/triple/lv/ieksdurvis/ <br>
+✅ ASAP clothes online store https://visionary-rugelach-771c34.netlify.app/ <br>
 ✅ Face-recognition app https://face-recognition-project-v2.herokuapp.com/
 
 - 📫 Feel free to contact me
