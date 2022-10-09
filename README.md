@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Alex - self-taught Front-end developer from Latvia with a half-year experience in web development and internship experience in European online software startup - Bordio.
 - 👀 My main stack: HTML, CSS (SASS), JavaScript, React.js
 - My portfolio projects are:
-✅ Triple
-✅ ASAP clothes online store
-✅ Face-recognition app
+✅ Triple https://dev.gim.lv/triple/lv/ieksdurvis/
+✅ ASAP clothes online store https://visionary-rugelach-771c34.netlify.app/
+✅ Face-recognition app https://face-recognition-project-v2.herokuapp.com/
 
 - 📫 Feel free to contact me
 my e-mail: alex.udodov.web@gmail.com
