@@ -8,7 +8,7 @@ https://dev.gim.lv/triple/lv/ieksdurvis/ <br>
 ✅ Face-recognition app - web-app that uses face-recognition API. It takes photos URL and detect faces on the picture. Deployed with Heroku. <br>
 https://face-recognition-project-v2.herokuapp.com/
 
-✨ Also you'll find here a lot of small JavaScript projects that I made to master my skills :)
+✨ Also you'll find in my repositories a lot of small JavaScript projects that I made to master my skills :)
 
 📫 Feel free to contact me
 my e-mail: alex.udodov.web@gmail.com
