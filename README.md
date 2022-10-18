@@ -1,5 +1,5 @@
-🌎 I’m Alex - self-taught front-end developer from Latvia with a half-year experience in web development and internship experience in European online software startup - Bordio. <br>
-📍 My main stack: HTML, CSS (SASS), JavaScript, React.js <br><br>
+🌎 I’m Alex - frontend engineer from Latvia with an internship experience in European online software startup - Bordio. <br>
+📍 My main stack: HTML, CSS (SASS), JavaScript, React.js, TypeScript <br><br>
 🧰 My portfolio projects are: <br><br>
 ✅ ASAP clothes - modern online store made with React.js and best practices: hooks, Redux, styled components. Deployed with Netlify.<br>
 https://visionary-rugelach-771c34.netlify.app/ <br>
