@@ -10,8 +10,7 @@ https://face-recognition-project-v2.herokuapp.com/
 
 ✨ Also you'll find in my repositories a lot of small JavaScript projects that I made to master my skills :)
 
-📫 Feel free to contact me
-my e-mail: alex.udodov.web@gmail.com
+📫 Feel free to contact me alex.udodov.web@gmail.com
 
 <!---
 AlexWebDev01/AlexWebDev01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
