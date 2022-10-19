@@ -2,7 +2,7 @@
 📍 My main stack: HTML, CSS (SASS), JavaScript, React.js, TypeScript <br><br>
 🧰 My portfolio projects are: <br><br>
 ✅ ASAP clothes - modern online store made with React.js, TypeScript and best React practices: hooks, Redux, styled components. Deployed with Netlify.<br>
-https://visionary-rugelach-771c34.netlify.app/ <br>
+https://visionary-rugelach-771c34.netlify.app/ <br><br>
 ✅ Triple - fully responsive and adaptive web-page with modern quiz section for users and form for partners. Made only with HTML, CSS(SASS) and JavaScript to avoid big libriries usage. Lighthouse report: Perfomance - 100, Best practices - 100, SEO over 90. <br>
 https://dev.gim.lv/triple/lv/ieksdurvis/ <br>
 
