@@ -4,5 +4,7 @@ I make a web-pages and web-applications using technologies like Semantic HTML, F
 As a graduated actor I have a unique experience and techniques in communication, public performance and researches.
 <br><br>
 🧰 My portfolio projects are:
+<br>
 ✅ ASAP clothes online store: https://visionary-rugelach-771c34.netlify.app/
+<br>
 ✅ Triple web page with big quiz section: https://dev.gim.lv/triple/lv/ieksdurvis/
