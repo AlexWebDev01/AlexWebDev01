@@ -1,7 +1,9 @@
-I'm a Front-end Developer with a focus on creating visually appealing and user-friendly interfaces. Proficient in HTML, CSS, and JavaScript, I utilize advanced technologies such as Semantic HTML, Flex layouts, and SEO best practices to design and develop responsive websites and applications.
-<br><br>
-Passionate about utilizing efficient tools and libraries, I have experience working with SASS and React. I have also collaborated in Agile teams, utilizing team management tools such as Jira Software, Kanban boards, and Sprints.
-<br><br>
-In addition to my technical skills, I bring a unique perspective to my work as a former actor, with strong communication and public performance skills honed through my education and training. I am constantly seeking new opportunities to expand my expertise and provide valuable contributions to my team.
-<br><br>
+I am a versatile QA Automation Engineer with a strong background in web development. With strong experience testing web and mobile-based applications, I have worked in full-stack teams following Agile and Scrum best practices, using Jira software for efficient project management.
+<br>
+My systematic and methodical approach to testing is grounded in a comprehensive understanding of Software Development Life Cycle (SDLC) and QA methodologies. I excel in performing a wide range of testing types, including Functional, Smoke, Regression, API, and Back-end testing. This ensures the delivery of high-quality software products by covering all critical aspects of the application.
+<br>
+I have developed meticulous test plans, test strategies, test cases, test data, and test checklists to ensure thorough test coverage. Utilizing modern JavaScript-based tools such as Playwright and Puppeteer, I have successfully implemented test automation, enhancing the efficiency and effectiveness of the testing process.
+<br>
+In addition to my technical skills, my background as an actor has honed my communication and public performance abilities. These skills have been instrumental in collaborating effectively with cross-functional teams, presenting test findings and reports, and fostering a positive and dynamic work environment.
+<br>
 🧰 My [portfolio web-page](https://alexudodov.info/)
