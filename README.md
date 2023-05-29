@@ -22,8 +22,7 @@
   <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
-<h3>My latest apps<h3>
-<a href="https://alexudodov.info/">🧰 Portfolio</a>
+
 <h3>Socials<h3>
 <p>
   <a href="https://github.com/AlexWebDev01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-      badge&logo=Github&logoColor=white" /></a>
