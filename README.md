@@ -1,9 +1,9 @@
 Welcome to my page!
-<br><br>
+<br>
 I'm Alex, JavaScript developer from **Latvia, Riga.**
 <br><br>
 **Technologies I work with**
-<br><br>
+<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@ I'm Alex, JavaScript developer from **Latvia, Riga.**
 <br><br>
 **My latest apps**
 <br>
-🧰 My [portfolio web-page](https://alexudodov.info/)
+🧰 (https://alexudodov.info/)
 <br><br>
 **Socials**
 <br>
