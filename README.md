@@ -23,12 +23,14 @@
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 <hr>
+<div style="display:flex;justify-content:space-between;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexWebDev01" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left:40px">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWebDev01" />
 </a>
+</div>
 <h3>Socials<h3>
 <p>
   <a href="https://github.com/AlexWebDev01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-      badge&logo=Github&logoColor=white" /></a>
