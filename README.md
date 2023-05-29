@@ -24,7 +24,7 @@ I'm Alex, JavaScript developer from **Latvia, Riga.**
 <br><br>
 **My latest apps**
 <br>
-🧰 (https://alexudodov.info/)
+🧰 https://alexudodov.info/
 <br><br>
 **Socials**
 <br>
