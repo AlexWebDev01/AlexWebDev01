@@ -1,6 +1,13 @@
 Welcome to my page!
 <br><br>
-I'm Alex, JavaScript developer from ![image](https://github.com/AlexWebDev01/AlexWebDev01/assets/102874212/ee829462-0110-4ab4-8d07-4292facdcfdc) **Latvia, Riga.**
+I'm Alex, JavaScript developer from 
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.5 5">
+<rect y="0" fill="#FFFFFF" width="7.5" height="5"/>
+<g fill="#A2001D">
+	<rect y="0" class="st1" width="7.5" height="1.8"/>
+	<rect x="0" y="214.4" class="7.5" width="513" height="1.8"/>
+</g>
+</svg> **Latvia, Riga.**
 
 **Technologies I work with**
 <br><br>
