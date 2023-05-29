@@ -26,7 +26,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexWebDev01" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left:15px">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left:40px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWebDev01" />
 </a>
 <h3>Socials<h3>
