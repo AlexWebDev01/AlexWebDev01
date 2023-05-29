@@ -1,14 +1,7 @@
 Welcome to my page!
 <br><br>
-I'm Alex, JavaScript developer from 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.5 5">
-<rect y="0" fill="#FFFFFF" width="7.5" height="5"/>
-<g fill="#A2001D">
-	<rect y="0" class="st1" width="7.5" height="1.8"/>
-	<rect x="0" y="214.4" class="7.5" width="513" height="1.8"/>
-</g>
-</svg> **Latvia, Riga.**
-
+I'm Alex, JavaScript developer from **Latvia, Riga.**
+<br><br>
 **Technologies I work with**
 <br><br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +14,6 @@ I'm Alex, JavaScript developer from
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -31,9 +23,11 @@ I'm Alex, JavaScript developer from
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 <br><br>
 **My latest apps**
+<br>
 🧰 My [portfolio web-page](https://alexudodov.info/)
 <br><br>
 **Socials**
+<br>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
