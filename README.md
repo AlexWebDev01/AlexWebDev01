@@ -1,6 +1,7 @@
 <p>Welcome to my page!<br>I'm Alex, JavaScript developer from <img src="https://raw.githubusercontent.com/catamphetamine/country-flag-icons/master/flags/3x2/LV.svg" alt="Latvia" width="13" /> <b>Latvia, Riga</b>.
 <p>
 <h3>Technologies I work with</h3>
+<hr>
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
@@ -26,7 +27,7 @@
 <h3>Socials<h3>
 <p>
   <a href="https://github.com/AlexWebDev01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-      badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/alex-udodov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alex-udodov-5462b8236/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
