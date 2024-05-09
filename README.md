@@ -1,4 +1,4 @@
-<p>Welcome to my page!<br>I'm Alex, Software Engineer from <img src="https://raw.githubusercontent.com/catamphetamine/country-flag-icons/master/flags/3x2/LV.svg" alt="Latvia" width="13" /> <b>Latvia, Riga</b>.<br>Coding at JavaScript & TypeScript.
+<p>Welcome to my page!<br>I'm Alex, Software Engineer from <img src="https://raw.githubusercontent.com/catamphetamine/country-flag-icons/master/flags/3x2/LV.svg" alt="Latvia" width="13" /> <b>Latvia, Riga</b>.<br>Main languages: JavaScript & TypeScript
 <p>
 <h3>Technologies I work with</h3>
 <hr>
